@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(243, 224, 104);
+}
+div{
+    text-align: right;
+    font-family: serif;
+    color:blue;
+    border: 4px dotted #b8359b;
+}
+.textoalaizquierda{
+    text-align: left;
+}
+.elquevadentro{
+    width: 45%;
+    border: 2px solid #c988df;
+}

@@ -1,0 +1,21 @@
+body{
+    font-size: 18pt;
+}
+div{
+    font-family: serif;
+}
+.fuente3m{
+    font-size: 3em;
+}
+.contenido{
+    text-align: center;
+}
+.conBorde{
+    border: 3px solid rgb(46, 63, 60);
+    width: 50%;
+}
+.altoEnNegros{
+    height: 100%;
+    background-color: 0000;
+    color: rgba(216, 196, 18, 0.603);
+}

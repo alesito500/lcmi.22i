@@ -1,0 +1,11 @@
+body{
+    text-align: right;
+    font-size: 22pt;
+}
+div{
+    color: violet;
+}
+.contenedor_peque{
+    width: 15%;
+    background-color: brown;
+}
