@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 6px;
+    font-size: 16pt;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 99%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-size: 0.7em;
+}
+.fizquierdo{
+    vertical-align: middle;
+    flex: 2;
+    text-align: left;
+    padding-left: 1em;
+}
+.fderecho{
+    flex: 1;
+    border-left: 2px solid;
+    text-align: right;
+    vertical-align: middle;
+    padding-right: 1em;
+}
