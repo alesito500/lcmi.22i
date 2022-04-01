@@ -1,0 +1,22 @@
+.cuerpo, .encabezado, .pie{
+    width: 100%;
+}
+.encabezado{
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 12%;
+    padding-bottom: 10%;    
+    height: 15%;
+}
+.cuerpo{
+    height: 80%;
+}
+.pie{
+    height: 5%;
+}
+.barralateral{
+    float: right;
+    height: 100%;
+    border: 2px solid black;
+    width: 20%;
+}

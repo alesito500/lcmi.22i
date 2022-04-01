@@ -1,0 +1,13 @@
+body{
+    background-image: url("/Volumes/Espresso/CLASE MARTES/IMAGENESyBOTONEs/imagenes/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fondoBlanco{
+    background-color: white;
+    padding: 16px;
+}
+.imagen{
+    width: auto;
+    height: 750px;
+}
